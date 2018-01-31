@@ -29,6 +29,5 @@ public class MyController {
          System.out.println(result.toString());
 		return result;
     }
-	
 
 }
